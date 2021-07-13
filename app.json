@@ -1,0 +1,12 @@
+{
+  "name": "Fan_Page",
+  "displayName": "Fan_Page",
+  "expo": {
+    "name": "Fan_Page",
+    "slug": "Fan_Page",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
